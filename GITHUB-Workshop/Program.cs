@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Student!");
+        Console.WriteLine("Hello, from Branch B!");
     }
 }
