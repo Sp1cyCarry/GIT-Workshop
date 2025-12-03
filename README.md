@@ -1,3 +1,9 @@
+# The link of the GitHub workshop presentation
+
+```markdown
+https://www.canva.com/design/DAG4zCFi9rE/vTTEBUFjmmh-dQUq3hhRgw/edit?utm_content=DAG4zCFi9rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+```
+
 # ***Here are some basic markup symbols to help you understand and style your ReadMe!***
 
 # __Markdown Style Cheatsheet__
